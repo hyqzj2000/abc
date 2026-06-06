@@ -1,6 +1,6 @@
 ### 影视库
 
-[点击查看](https://pl10000.neocities.org/bmh)
+### [点击查看](https://pl10000.neocities.org/bmh)
 -----------------
 ## 不同文件夹JS访问：变量值说明
 【TXT M3U 同一个变量值】，
